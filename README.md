@@ -4,7 +4,8 @@ I'm a young, enthusiastic, and ambitious developer based in New York. I love lea
 Currently working at [Speechify]!
 
 Reach me at my personal email address: quantumtraveling@gmail.com or my work email address: taylor@speechify.com
-
-![](gif.gif)
+<p align="center">
+  <img src=gif.gif>
+</p>
 
 [speechify]: https://github.com/SpeechifyInc
